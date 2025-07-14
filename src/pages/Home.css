@@ -1,0 +1,40 @@
+.home-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Georgia', serif;
+  color: #2c3e50;
+  background-color: #fefefe;
+  line-height: 1.6;
+}
+
+.main-heading {
+  font-size: 2.5rem;
+  text-align: center;
+  color: #1a2c5b;
+  margin-bottom: 2rem;
+}
+
+.intro-section {
+  margin-bottom: 2rem;
+}
+
+.features-section, .goal-section {
+  margin-top: 2rem;
+}
+
+.subheading {
+  font-size: 1.8rem;
+  color: #34495e;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.75rem;
+}

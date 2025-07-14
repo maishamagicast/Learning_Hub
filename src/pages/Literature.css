@@ -1,0 +1,47 @@
+.literature-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: Georgia, serif;
+  color: #2e2e2e;
+  line-height: 1.7;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.main-heading {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #1e3a5f;
+}
+
+.subheading {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #264653;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+.section p {
+  margin-bottom: 1rem;
+}
+
+.section ul {
+  margin-left: 1.2rem;
+}
+
+.section li {
+  margin-bottom: 0.5rem;
+}
+
+.elaboration {
+  display: block;
+  margin-top: 0.3rem;
+  font-style: italic;
+  color: #555;
+}
+

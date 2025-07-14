@@ -1,0 +1,16 @@
+/* index.css - entry point for CSS imports */
+
+@import './main.css';
+@import './Home.css';
+@import './Literature.css';
+@import './Grammar.css';
+
+/* You can add global variables or root styles here if needed */
+:root {
+  --primary-color: #004085;
+  --secondary-color: #f5f7fa;
+  --accent-color: #1d3557;
+  --text-color: #2d2d2d;
+  --heading-font: 'Georgia', serif;
+  --body-font: 'Segoe UI', sans-serif;
+}
