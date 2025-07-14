@@ -1,2002 +1,2070 @@
 [
   {
-    "wrong": "begining",
+    "wrong": "abse",
+    "correct": "absence"
+  },
+  {
+    "wrong": "acadc",
+    "correct": "academic"
+  },
+  {
+    "wrong": "acct",
+    "correct": "accept"
+  },
+  {
+    "wrong": "accs",
+    "correct": "access"
+  },
+  {
+    "wrong": "accompg",
+    "correct": "accompanying"
+  },
+  {
+    "wrong": "accomplt",
+    "correct": "accomplishment"
+  },
+  {
+    "wrong": "accog",
+    "correct": "according"
+  },
+  {
+    "wrong": "accue",
+    "correct": "accurate"
+  },
+  {
+    "wrong": "ace",
+    "correct": "ache"
+  },
+  {
+    "wrong": "acce",
+    "correct": "accuse"
+  },
+  {
+    "wrong": "acqut",
+    "correct": "acquaint"
+  },
+  {
+    "wrong": "acrs",
+    "correct": "across"
+  },
+  {
+    "wrong": "activs",
+    "correct": "activities"
+  },
+  {
+    "wrong": "actl",
+    "correct": "actual"
+  },
+  {
+    "wrong": "adjat",
+    "correct": "adjacent"
+  },
+  {
+    "wrong": "adolet",
+    "correct": "adolescent"
+  },
+  {
+    "wrong": "advants",
+    "correct": "advantageous"
+  },
+  {
+    "wrong": "advertt",
+    "correct": "advertisement"
+  },
+  {
+    "wrong": "adve",
+    "correct": "advice"
+  },
+  {
+    "wrong": "adve",
+    "correct": "advise"
+  },
+  {
+    "wrong": "afft",
+    "correct": "affect"
+  },
+  {
+    "wrong": "aggre",
+    "correct": "aggravate"
+  },
+  {
+    "wrong": "aie",
+    "correct": "aisle"
+  },
+  {
+    "wrong": "alt",
+    "correct": "allot"
+  },
+  {
+    "wrong": "al",
+    "correct": "all"
+  },
+  {
+    "wrong": "rit",
+    "correct": "right"
+  },
+  {
+    "wrong": "almt",
+    "correct": "almost"
+  },
+  {
+    "wrong": "alpht",
+    "correct": "alphabet"
+  },
+  {
+    "wrong": "alry",
+    "correct": "already"
+  },
+  {
+    "wrong": "alr",
+    "correct": "alter"
+  },
+  {
+    "wrong": "toger",
+    "correct": "together"
+  },
+  {
+    "wrong": "altogr",
+    "correct": "altogether"
+  },
+  {
+    "wrong": "amar",
+    "correct": "amateur"
+  },
+  {
+    "wrong": "amg",
+    "correct": "among"
+  },
+  {
+    "wrong": "anals",
+    "correct": "analysis"
+  },
+  {
+    "wrong": "anae",
+    "correct": "analyze"
+  },
+  {
+    "wrong": "ansr",
+    "correct": "answer"
+  },
+  {
+    "wrong": "antie",
+    "correct": "antidote"
+  },
+  {
+    "wrong": "antisc",
+    "correct": "antiseptic"
+  },
+  {
+    "wrong": "anxy",
+    "correct": "anxiety"
+  },
+  {
+    "wrong": "apoy",
+    "correct": "apology"
+  },
+  {
+    "wrong": "appary",
+    "correct": "apparently"
+  },
+  {
+    "wrong": "appeae",
+    "correct": "appearance"
+  },
+  {
+    "wrong": "appd",
+    "correct": "applied"
+  },
+  {
+    "wrong": "apprh",
+    "correct": "approach"
+  },
+  {
+    "wrong": "approe",
+    "correct": "appropriate"
+  },
+  {
+    "wrong": "arc",
+    "correct": "artic"
+  },
+  {
+    "wrong": "are",
+    "correct": "argue"
+  },
+  {
+    "wrong": "arod",
+    "correct": "aroused"
+  },
+  {
+    "wrong": "arte",
+    "correct": "article"
+  },
+  {
+    "wrong": "ascd",
+    "correct": "ascend"
+  },
+  {
+    "wrong": "athlc",
+    "correct": "athletic"
+  },
+  {
+    "wrong": "attk",
+    "correct": "attack"
+  },
+  {
+    "wrong": "attene",
+    "correct": "attendance"
+  },
+  {
+    "wrong": "attie",
+    "correct": "attitude"
+  },
+  {
+    "wrong": "audie",
+    "correct": "audience"
+  },
+  {
+    "wrong": "autr",
+    "correct": "author"
+  },
+  {
+    "wrong": "autn",
+    "correct": "autumn"
+  },
+  {
+    "wrong": "auxiy",
+    "correct": "auxiliary"
+  },
+  {
+    "wrong": "awkd",
+    "correct": "awkward"
+  },
+  {
+    "wrong": "bachr",
+    "correct": "bachelor"
+  },
+  {
+    "wrong": "basiy",
+    "correct": "basically"
+  },
+  {
+    "wrong": "bas",
+    "correct": "basis"
+  },
+  {
+    "wrong": "beaul",
+    "correct": "beautiful"
+  },
+  {
+    "wrong": "becog",
+    "correct": "becoming"
+  },
+  {
+    "wrong": "begig",
     "correct": "beginning"
   },
   {
-    "wrong": "adress",
-    "correct": "address"
+    "wrong": "belig",
+    "correct": "believing"
   },
   {
-    "wrong": "remeber",
-    "correct": "remember"
+    "wrong": "benefl",
+    "correct": "beneficial"
   },
   {
-    "wrong": "wierd",
-    "correct": "weird"
+    "wrong": "breh",
+    "correct": "breath"
   },
   {
-    "wrong": "enviroment",
-    "correct": "environment"
+    "wrong": "bree",
+    "correct": "breathe"
   },
   {
-    "wrong": "comming",
-    "correct": "coming"
-  },
-  {
-    "wrong": "comming",
-    "correct": "coming"
-  },
-  {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "acommodation",
-    "correct": "accommodation"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "medeval",
-    "correct": "medieval"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "wether",
-    "correct": "whether"
-  },
-  {
-    "wrong": "medeval",
-    "correct": "medieval"
-  },
-  {
-    "wrong": "wierd",
-    "correct": "weird"
-  },
-  {
-    "wrong": "enviroment",
-    "correct": "environment"
-  },
-  {
-    "wrong": "interupt",
-    "correct": "interrupt"
-  },
-  {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "reciept",
-    "correct": "receipt"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "curiousity",
-    "correct": "curiosity"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "priviledge",
-    "correct": "privilege"
-  },
-  {
-    "wrong": "judgement",
-    "correct": "judgment"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "rythm",
-    "correct": "rhythm"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "adress",
-    "correct": "address"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "judgement",
-    "correct": "judgment"
-  },
-  {
-    "wrong": "reciept",
-    "correct": "receipt"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "interupt",
-    "correct": "interrupt"
-  },
-  {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
-  },
-  {
-    "wrong": "calender",
-    "correct": "calendar"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "perseverence",
-    "correct": "perseverance"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "curiousity",
-    "correct": "curiosity"
-  },
-  {
-    "wrong": "buisness",
+    "wrong": "busis",
     "correct": "business"
   },
   {
-    "wrong": "enviroment",
-    "correct": "environment"
+    "wrong": "cafea",
+    "correct": "cafeteria"
   },
   {
-    "wrong": "wierd",
-    "correct": "weird"
+    "wrong": "caler",
+    "correct": "calendar"
   },
   {
-    "wrong": "untill",
-    "correct": "until"
+    "wrong": "campn",
+    "correct": "campaign"
   },
   {
-    "wrong": "relevent",
-    "correct": "relevant"
+    "wrong": "capl",
+    "correct": "capital"
   },
   {
-    "wrong": "noticable",
-    "correct": "noticeable"
+    "wrong": "carrg",
+    "correct": "carrying"
   },
   {
-    "wrong": "acommodation",
-    "correct": "accommodation"
+    "wrong": "celee",
+    "correct": "celebrate"
   },
   {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
+    "wrong": "cemey",
+    "correct": "cemetery"
   },
   {
-    "wrong": "existance",
-    "correct": "existence"
+    "wrong": "chale",
+    "correct": "challenge"
   },
   {
-    "wrong": "consentrate",
-    "correct": "concentrate"
+    "wrong": "change",
+    "correct": "changeable"
   },
   {
-    "wrong": "adress",
-    "correct": "address"
+    "wrong": "charactc",
+    "correct": "characteristic"
   },
   {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
+    "wrong": "chaur",
+    "correct": "chauffeur"
   },
   {
-    "wrong": "reciept",
-    "correct": "receipt"
+    "wrong": "cheerfs",
+    "correct": "cheerfulness"
   },
   {
-    "wrong": "harrass",
-    "correct": "harass"
+    "wrong": "choe",
+    "correct": "choose"
   },
   {
-    "wrong": "consentrate",
-    "correct": "concentrate"
+    "wrong": "che",
+    "correct": "chose"
   },
   {
-    "wrong": "accomodate",
-    "correct": "accommodate"
+    "wrong": "chon",
+    "correct": "chosen"
   },
   {
-    "wrong": "acommodation",
-    "correct": "accommodation"
+    "wrong": "coince",
+    "correct": "coincidence"
   },
   {
-    "wrong": "consentrate",
-    "correct": "concentrate"
+    "wrong": "coln",
+    "correct": "column"
   },
   {
-    "wrong": "wich",
-    "correct": "which"
+    "wrong": "comfoy",
+    "correct": "comfortably"
   },
   {
-    "wrong": "goverment",
-    "correct": "government"
+    "wrong": "comme",
+    "correct": "committee"
   },
   {
-    "wrong": "neccessary",
-    "correct": "necessary"
+    "wrong": "comps",
+    "correct": "companies"
   },
   {
-    "wrong": "judgement",
-    "correct": "judgment"
+    "wrong": "coml",
+    "correct": "compel"
   },
   {
-    "wrong": "liason",
-    "correct": "liaison"
+    "wrong": "compee",
+    "correct": "competence"
   },
   {
-    "wrong": "wether",
-    "correct": "whether"
+    "wrong": "complt",
+    "correct": "compliment"
   },
   {
-    "wrong": "omision",
-    "correct": "omission"
+    "wrong": "compren",
+    "correct": "comprehension"
   },
   {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
+    "wrong": "cone",
+    "correct": "concede"
   },
   {
-    "wrong": "tounge",
-    "correct": "tongue"
+    "wrong": "conce",
+    "correct": "conceive"
   },
   {
-    "wrong": "wether",
-    "correct": "whether"
+    "wrong": "conn",
+    "correct": "concern"
   },
   {
-    "wrong": "begining",
-    "correct": "beginning"
+    "wrong": "conn",
+    "correct": "condemn"
   },
   {
-    "wrong": "curiousity",
+    "wrong": "congrats",
+    "correct": "congratulations"
+  },
+  {
+    "wrong": "connor",
+    "correct": "connoisseur"
+  },
+  {
+    "wrong": "consce",
+    "correct": "conscience"
+  },
+  {
+    "wrong": "conss",
+    "correct": "conscious"
+  },
+  {
+    "wrong": "conside",
+    "correct": "considerable"
+  },
+  {
+    "wrong": "consit",
+    "correct": "consistent"
+  },
+  {
+    "wrong": "contemy",
+    "correct": "contemporary"
+  },
+  {
+    "wrong": "contt",
+    "correct": "contempt"
+  },
+  {
+    "wrong": "contis",
+    "correct": "continuous"
+  },
+  {
+    "wrong": "contrd",
+    "correct": "controlled"
+  },
+  {
+    "wrong": "convee",
+    "correct": "convenience"
+  },
+  {
+    "wrong": "correspe",
+    "correct": "correspondence"
+  },
+  {
+    "wrong": "counr",
+    "correct": "councilor"
+  },
+  {
+    "wrong": "counr",
+    "correct": "counselor"
+  },
+  {
+    "wrong": "couras",
+    "correct": "courageous"
+  },
+  {
+    "wrong": "critm",
+    "correct": "criticism"
+  },
+  {
+    "wrong": "curiy",
     "correct": "curiosity"
   },
   {
-    "wrong": "occured",
-    "correct": "occurred"
+    "wrong": "currim",
+    "correct": "curriculum"
   },
   {
-    "wrong": "arguement",
-    "correct": "argument"
+    "wrong": "cylir",
+    "correct": "cylinder"
   },
   {
-    "wrong": "truely",
-    "correct": "truly"
+    "wrong": "dangs",
+    "correct": "dangerous"
   },
   {
-    "wrong": "recieve",
-    "correct": "receive"
+    "wrong": "dece",
+    "correct": "deceive"
   },
   {
-    "wrong": "interupt",
-    "correct": "interrupt"
+    "wrong": "deciy",
+    "correct": "decidedly"
   },
   {
-    "wrong": "occured",
-    "correct": "occurred"
+    "wrong": "defit",
+    "correct": "deficient"
   },
   {
-    "wrong": "scedule",
-    "correct": "schedule"
+    "wrong": "delint",
+    "correct": "delinquent"
   },
   {
-    "wrong": "remeber",
-    "correct": "remember"
+    "wrong": "demoy",
+    "correct": "democracy"
   },
   {
-    "wrong": "seperate",
-    "correct": "separate"
+    "wrong": "depet",
+    "correct": "dependent"
   },
   {
-    "wrong": "gratefull",
-    "correct": "grateful"
+    "wrong": "descet",
+    "correct": "descendant"
   },
   {
-    "wrong": "independant",
-    "correct": "independent"
+    "wrong": "dest",
+    "correct": "descent"
   },
   {
-    "wrong": "honost",
-    "correct": "honest"
+    "wrong": "desce",
+    "correct": "describe"
   },
   {
-    "wrong": "maintainance",
-    "correct": "maintenance"
+    "wrong": "dest",
+    "correct": "desert"
   },
   {
-    "wrong": "concious",
-    "correct": "conscious"
+    "wrong": "dest",
+    "correct": "dessert"
   },
   {
-    "wrong": "medeval",
-    "correct": "medieval"
+    "wrong": "detrt",
+    "correct": "detriment"
   },
   {
-    "wrong": "reciept",
-    "correct": "receipt"
+    "wrong": "devs",
+    "correct": "devices"
   },
   {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
+    "wrong": "diffee",
+    "correct": "difference"
   },
   {
-    "wrong": "wierdly",
-    "correct": "weirdly"
+    "wrong": "dila",
+    "correct": "dilemma"
   },
   {
-    "wrong": "existance",
-    "correct": "existence"
+    "wrong": "dimih",
+    "correct": "diminish"
   },
   {
-    "wrong": "reciept",
-    "correct": "receipt"
+    "wrong": "ding",
+    "correct": "dining"
   },
   {
-    "wrong": "enviroment",
-    "correct": "environment"
+    "wrong": "rom",
+    "correct": "room"
   },
   {
-    "wrong": "independant",
-    "correct": "independent"
+    "wrong": "disass",
+    "correct": "disastrous"
   },
   {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
+    "wrong": "disce",
+    "correct": "disciple"
   },
   {
-    "wrong": "resistence",
-    "correct": "resistance"
+    "wrong": "discos",
+    "correct": "discoveries"
   },
   {
-    "wrong": "perseverence",
-    "correct": "perseverance"
+    "wrong": "diss",
+    "correct": "discuss"
   },
   {
-    "wrong": "maintainance",
-    "correct": "maintenance"
+    "wrong": "dise",
+    "correct": "disease"
   },
   {
-    "wrong": "seige",
-    "correct": "siege"
+    "wrong": "dissatd",
+    "correct": "dissatisfied"
   },
   {
-    "wrong": "wierdly",
-    "correct": "weirdly"
+    "wrong": "distind",
+    "correct": "distinguished"
   },
   {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
+    "wrong": "docr",
+    "correct": "doctor"
   },
   {
-    "wrong": "acommodation",
-    "correct": "accommodation"
+    "wrong": "doet",
+    "correct": "doesn\u2019t"
   },
   {
-    "wrong": "knowlege",
-    "correct": "knowledge"
+    "wrong": "domit",
+    "correct": "dominant"
   },
   {
-    "wrong": "medeval",
-    "correct": "medieval"
+    "wrong": "dormis",
+    "correct": "dormitories"
   },
   {
-    "wrong": "calender",
-    "correct": "calendar"
+    "wrong": "drunks",
+    "correct": "drunkenness"
   },
   {
-    "wrong": "foriegn",
-    "correct": "foreign"
+    "wrong": "ecsy",
+    "correct": "ecstasy"
   },
   {
-    "wrong": "begining",
-    "correct": "beginning"
+    "wrong": "edin",
+    "correct": "edition"
   },
   {
-    "wrong": "truely",
-    "correct": "truly"
+    "wrong": "efft",
+    "correct": "effect"
   },
   {
-    "wrong": "definately",
-    "correct": "definitely"
+    "wrong": "effit",
+    "correct": "efficient"
   },
   {
-    "wrong": "freind",
-    "correct": "friend"
+    "wrong": "eigh",
+    "correct": "eighth"
   },
   {
-    "wrong": "calender",
-    "correct": "calendar"
+    "wrong": "eitr",
+    "correct": "either"
   },
   {
-    "wrong": "concious",
-    "correct": "conscious"
+    "wrong": "elige",
+    "correct": "eligible"
   },
   {
-    "wrong": "truely",
-    "correct": "truly"
+    "wrong": "eloquy",
+    "correct": "eloquently"
   },
   {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "wether",
-    "correct": "whether"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "reciept",
-    "correct": "receipt"
-  },
-  {
-    "wrong": "embarass",
+    "wrong": "embas",
     "correct": "embarrass"
   },
   {
-    "wrong": "parliment",
-    "correct": "parliament"
+    "wrong": "emige",
+    "correct": "emigrate"
   },
   {
-    "wrong": "judgement",
-    "correct": "judgment"
+    "wrong": "emphe",
+    "correct": "emphasize"
   },
   {
-    "wrong": "neccessary",
-    "correct": "necessary"
+    "wrong": "empts",
+    "correct": "emptiness"
   },
   {
-    "wrong": "acommodation",
-    "correct": "accommodation"
+    "wrong": "enes",
+    "correct": "enemies"
   },
   {
-    "wrong": "relevent",
-    "correct": "relevant"
+    "wrong": "enors",
+    "correct": "enormous"
   },
   {
-    "wrong": "buisness",
-    "correct": "business"
+    "wrong": "enoh",
+    "correct": "enough"
   },
   {
-    "wrong": "relevent",
-    "correct": "relevant"
+    "wrong": "enthum",
+    "correct": "enthusiasm"
   },
   {
-    "wrong": "buisness",
-    "correct": "business"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "relevent",
-    "correct": "relevant"
-  },
-  {
-    "wrong": "begining",
-    "correct": "beginning"
-  },
-  {
-    "wrong": "consentrate",
-    "correct": "concentrate"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "seperate",
-    "correct": "separate"
-  },
-  {
-    "wrong": "concious",
-    "correct": "conscious"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "seperate",
-    "correct": "separate"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
-  },
-  {
-    "wrong": "noticable",
-    "correct": "noticeable"
-  },
-  {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "occured",
-    "correct": "occurred"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "buisness",
-    "correct": "business"
-  },
-  {
-    "wrong": "rythm",
-    "correct": "rhythm"
-  },
-  {
-    "wrong": "existance",
-    "correct": "existence"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "curiousity",
-    "correct": "curiosity"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "remeber",
-    "correct": "remember"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "existance",
-    "correct": "existence"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "remeber",
-    "correct": "remember"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "calender",
-    "correct": "calendar"
-  },
-  {
-    "wrong": "enviroment",
+    "wrong": "envirt",
     "correct": "environment"
   },
   {
-    "wrong": "priviledge",
-    "correct": "privilege"
+    "wrong": "equy",
+    "correct": "equally"
   },
   {
-    "wrong": "wierd",
-    "correct": "weird"
+    "wrong": "equid",
+    "correct": "equipped"
   },
   {
-    "wrong": "wether",
-    "correct": "whether"
+    "wrong": "esce",
+    "correct": "escape"
   },
   {
-    "wrong": "suprise",
-    "correct": "surprise"
+    "wrong": "especy",
+    "correct": "especially"
   },
   {
-    "wrong": "rythm",
-    "correct": "rhythm"
+    "wrong": "eventy",
+    "correct": "eventually"
   },
   {
-    "wrong": "reciept",
-    "correct": "receipt"
+    "wrong": "every",
+    "correct": "everybody"
   },
   {
-    "wrong": "publically",
-    "correct": "publicly"
+    "wrong": "exaggeg",
+    "correct": "exaggerating"
   },
   {
-    "wrong": "seperate",
-    "correct": "separate"
+    "wrong": "excd",
+    "correct": "exceed"
   },
   {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
+    "wrong": "exct",
+    "correct": "except"
   },
   {
-    "wrong": "seperate",
-    "correct": "separate"
+    "wrong": "excs",
+    "correct": "excess"
   },
   {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
+    "wrong": "exere",
+    "correct": "exercise"
   },
   {
-    "wrong": "maintainance",
-    "correct": "maintenance"
+    "wrong": "exhad",
+    "correct": "exhausted"
   },
   {
-    "wrong": "occassion",
-    "correct": "occasion"
+    "wrong": "exht",
+    "correct": "exhibit"
   },
   {
-    "wrong": "interupt",
-    "correct": "interrupt"
+    "wrong": "exhile",
+    "correct": "exhilarate"
   },
   {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "neccessary",
-    "correct": "necessary"
-  },
-  {
-    "wrong": "truely",
-    "correct": "truly"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "concious",
-    "correct": "conscious"
-  },
-  {
-    "wrong": "rythm",
-    "correct": "rhythm"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "perseverence",
-    "correct": "perseverance"
-  },
-  {
-    "wrong": "judgement",
-    "correct": "judgment"
-  },
-  {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "buisness",
-    "correct": "business"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "rythm",
-    "correct": "rhythm"
-  },
-  {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "interupt",
-    "correct": "interrupt"
-  },
-  {
-    "wrong": "occured",
-    "correct": "occurred"
-  },
-  {
-    "wrong": "begining",
-    "correct": "beginning"
-  },
-  {
-    "wrong": "adress",
-    "correct": "address"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "seperate",
-    "correct": "separate"
-  },
-  {
-    "wrong": "seperate",
-    "correct": "separate"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "begining",
-    "correct": "beginning"
-  },
-  {
-    "wrong": "acommodation",
-    "correct": "accommodation"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "buisness",
-    "correct": "business"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "maintainance",
-    "correct": "maintenance"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "perseverence",
-    "correct": "perseverance"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "wether",
-    "correct": "whether"
-  },
-  {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
-  },
-  {
-    "wrong": "adress",
-    "correct": "address"
-  },
-  {
-    "wrong": "wether",
-    "correct": "whether"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "calender",
-    "correct": "calendar"
-  },
-  {
-    "wrong": "calender",
-    "correct": "calendar"
-  },
-  {
-    "wrong": "enviroment",
-    "correct": "environment"
-  },
-  {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "occured",
-    "correct": "occurred"
-  },
-  {
-    "wrong": "maintainance",
-    "correct": "maintenance"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "independant",
-    "correct": "independent"
-  },
-  {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "begining",
-    "correct": "beginning"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "acommodation",
-    "correct": "accommodation"
-  },
-  {
-    "wrong": "wierd",
-    "correct": "weird"
-  },
-  {
-    "wrong": "adress",
-    "correct": "address"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "noticable",
-    "correct": "noticeable"
-  },
-  {
-    "wrong": "enviroment",
-    "correct": "environment"
-  },
-  {
-    "wrong": "concious",
-    "correct": "conscious"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "begining",
-    "correct": "beginning"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "wierdly",
-    "correct": "weirdly"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "curiousity",
-    "correct": "curiosity"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "happend",
-    "correct": "happened"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "acommodation",
-    "correct": "accommodation"
-  },
-  {
-    "wrong": "comming",
-    "correct": "coming"
-  },
-  {
-    "wrong": "adress",
-    "correct": "address"
-  },
-  {
-    "wrong": "neccessary",
-    "correct": "necessary"
-  },
-  {
-    "wrong": "harrass",
-    "correct": "harass"
-  },
-  {
-    "wrong": "judgement",
-    "correct": "judgment"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "foriegn",
-    "correct": "foreign"
-  },
-  {
-    "wrong": "relevent",
-    "correct": "relevant"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "medeval",
-    "correct": "medieval"
-  },
-  {
-    "wrong": "wierdly",
-    "correct": "weirdly"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "consentrate",
-    "correct": "concentrate"
-  },
-  {
-    "wrong": "medeval",
-    "correct": "medieval"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "embarass",
-    "correct": "embarrass"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "buisness",
-    "correct": "business"
-  },
-  {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
-  },
-  {
-    "wrong": "maintainance",
-    "correct": "maintenance"
-  },
-  {
-    "wrong": "knowlege",
-    "correct": "knowledge"
-  },
-  {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "relevent",
-    "correct": "relevant"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "relevent",
-    "correct": "relevant"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "rythm",
-    "correct": "rhythm"
-  },
-  {
-    "wrong": "wierdly",
-    "correct": "weirdly"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "reciept",
-    "correct": "receipt"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "maintainance",
-    "correct": "maintenance"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "parliment",
-    "correct": "parliament"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "wierd",
-    "correct": "weird"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "existance",
+    "wrong": "exise",
     "correct": "existence"
   },
   {
-    "wrong": "calender",
-    "correct": "calendar"
+    "wrong": "extrat",
+    "correct": "extravagant"
   },
   {
-    "wrong": "omision",
-    "correct": "omission"
+    "wrong": "facils",
+    "correct": "facilities"
   },
   {
-    "wrong": "recieve",
-    "correct": "receive"
+    "wrong": "faithfs",
+    "correct": "faithfulness"
   },
   {
-    "wrong": "priviledge",
-    "correct": "privilege"
+    "wrong": "famir",
+    "correct": "familiar"
   },
   {
-    "wrong": "curiousity",
-    "correct": "curiosity"
+    "wrong": "famis",
+    "correct": "families"
   },
   {
-    "wrong": "buisness",
-    "correct": "business"
+    "wrong": "fascig",
+    "correct": "fascinating"
   },
   {
-    "wrong": "medeval",
-    "correct": "medieval"
+    "wrong": "fease",
+    "correct": "feasible"
   },
   {
-    "wrong": "freind",
-    "correct": "friend"
+    "wrong": "Febry",
+    "correct": "February"
   },
   {
-    "wrong": "harrass",
+    "wrong": "fictis",
+    "correct": "fictitious"
+  },
+  {
+    "wrong": "finany",
+    "correct": "financially"
+  },
+  {
+    "wrong": "forn",
+    "correct": "foreign"
+  },
+  {
+    "wrong": "fored",
+    "correct": "foreword"
+  },
+  {
+    "wrong": "formy",
+    "correct": "formally"
+  },
+  {
+    "wrong": "formy",
+    "correct": "formerly"
+  },
+  {
+    "wrong": "ford",
+    "correct": "forward"
+  },
+  {
+    "wrong": "fourn",
+    "correct": "fourteen"
+  },
+  {
+    "wrong": "fouh",
+    "correct": "fourth"
+  },
+  {
+    "wrong": "full",
+    "correct": "fulfill"
+  },
+  {
+    "wrong": "funl",
+    "correct": "funeral"
+  },
+  {
+    "wrong": "furr",
+    "correct": "further"
+  },
+  {
+    "wrong": "gaiy",
+    "correct": "gaiety"
+  },
+  {
+    "wrong": "gae",
+    "correct": "gauge"
+  },
+  {
+    "wrong": "gene",
+    "correct": "genuine"
+  },
+  {
+    "wrong": "gogs",
+    "correct": "goggles"
+  },
+  {
+    "wrong": "govert",
+    "correct": "government"
+  },
+  {
+    "wrong": "grar",
+    "correct": "grammar"
+  },
+  {
+    "wrong": "granr",
+    "correct": "grandeur"
+  },
+  {
+    "wrong": "gries",
+    "correct": "grievous"
+  },
+  {
+    "wrong": "guare",
+    "correct": "guarantee"
+  },
+  {
+    "wrong": "handid",
+    "correct": "handicapped"
+  },
+  {
+    "wrong": "handkef",
+    "correct": "handkerchief"
+  },
+  {
+    "wrong": "happg",
+    "correct": "happening"
+  },
+  {
+    "wrong": "hars",
     "correct": "harass"
   },
   {
-    "wrong": "neccessary",
-    "correct": "necessary"
+    "wrong": "haughs",
+    "correct": "haughtiness"
   },
   {
-    "wrong": "accomodate",
-    "correct": "accommodate"
+    "wrong": "heay",
+    "correct": "healthy"
   },
   {
-    "wrong": "wich",
-    "correct": "which"
+    "wrong": "hear",
+    "correct": "heavier"
   },
   {
-    "wrong": "adress",
-    "correct": "address"
+    "wrong": "heit",
+    "correct": "height"
   },
   {
-    "wrong": "remeber",
-    "correct": "remember"
+    "wrong": "hell",
+    "correct": "helpful"
   },
   {
-    "wrong": "consentrate",
-    "correct": "concentrate"
+    "wrong": "hinde",
+    "correct": "hindrance"
   },
   {
-    "wrong": "definately",
-    "correct": "definitely"
+    "wrong": "hopg",
+    "correct": "hoping"
   },
   {
-    "wrong": "occured",
-    "correct": "occurred"
+    "wrong": "hue",
+    "correct": "huge"
   },
   {
-    "wrong": "wether",
-    "correct": "whether"
+    "wrong": "humie",
+    "correct": "humiliate"
   },
   {
-    "wrong": "definately",
-    "correct": "definitely"
+    "wrong": "hurry",
+    "correct": "hurriedly"
   },
   {
-    "wrong": "wierdly",
-    "correct": "weirdly"
+    "wrong": "hyge",
+    "correct": "hygiene"
   },
   {
-    "wrong": "perseverence",
-    "correct": "perseverance"
+    "wrong": "hypoe",
+    "correct": "hypocrite"
   },
   {
-    "wrong": "happend",
-    "correct": "happened"
+    "wrong": "ignoe",
+    "correct": "ignorance"
   },
   {
-    "wrong": "scedule",
-    "correct": "schedule"
+    "wrong": "imagy",
+    "correct": "imaginary"
   },
   {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
+    "wrong": "immedy",
+    "correct": "immediately"
   },
   {
-    "wrong": "independant",
-    "correct": "independent"
+    "wrong": "imme",
+    "correct": "immense"
   },
   {
-    "wrong": "comming",
-    "correct": "coming"
+    "wrong": "impot",
+    "correct": "important"
   },
   {
-    "wrong": "comming",
-    "correct": "coming"
+    "wrong": "inadee",
+    "correct": "inadequate"
   },
   {
-    "wrong": "relevent",
-    "correct": "relevant"
+    "wrong": "inaugun",
+    "correct": "inauguration"
   },
   {
-    "wrong": "suprise",
-    "correct": "surprise"
+    "wrong": "incre",
+    "correct": "increase"
   },
   {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
+    "wrong": "incree",
+    "correct": "incredible"
   },
   {
-    "wrong": "gratefull",
-    "correct": "grateful"
+    "wrong": "indict",
+    "correct": "indictment"
   },
   {
-    "wrong": "remeber",
-    "correct": "remember"
+    "wrong": "indispe",
+    "correct": "indispensable"
   },
   {
-    "wrong": "goverment",
-    "correct": "government"
+    "wrong": "indivl",
+    "correct": "individual"
   },
   {
-    "wrong": "neccessary",
-    "correct": "necessary"
+    "wrong": "infle",
+    "correct": "influence"
   },
   {
-    "wrong": "wierdly",
-    "correct": "weirdly"
+    "wrong": "inges",
+    "correct": "ingenious"
   },
   {
-    "wrong": "occassion",
-    "correct": "occasion"
+    "wrong": "initie",
+    "correct": "initiative"
   },
   {
-    "wrong": "priviledge",
-    "correct": "privilege"
+    "wrong": "innoe",
+    "correct": "innocence"
   },
   {
-    "wrong": "comming",
-    "correct": "coming"
+    "wrong": "insise",
+    "correct": "insistence"
   },
   {
-    "wrong": "accomodate",
-    "correct": "accommodate"
+    "wrong": "instrr",
+    "correct": "instructor"
   },
   {
-    "wrong": "truely",
-    "correct": "truly"
+    "wrong": "intelll",
+    "correct": "intellectual"
   },
   {
-    "wrong": "interupt",
-    "correct": "interrupt"
+    "wrong": "intelt",
+    "correct": "intelligent"
   },
   {
-    "wrong": "independant",
-    "correct": "independent"
+    "wrong": "intet",
+    "correct": "interest"
   },
   {
-    "wrong": "noticable",
-    "correct": "noticeable"
+    "wrong": "interprn",
+    "correct": "interpretation"
   },
   {
-    "wrong": "occured",
-    "correct": "occurred"
+    "wrong": "intole",
+    "correct": "intolerance"
   },
   {
-    "wrong": "perseverence",
-    "correct": "perseverance"
+    "wrong": "intrody",
+    "correct": "introductory"
   },
   {
-    "wrong": "wierdly",
-    "correct": "weirdly"
+    "wrong": "invare",
+    "correct": "invariable"
   },
   {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
+    "wrong": "irrelt",
+    "correct": "irrelevant"
   },
   {
-    "wrong": "priviledge",
-    "correct": "privilege"
+    "wrong": "irresie",
+    "correct": "irresistible"
   },
   {
-    "wrong": "concious",
-    "correct": "conscious"
+    "wrong": "isld",
+    "correct": "island"
   },
   {
-    "wrong": "occured",
-    "correct": "occurred"
+    "wrong": "is",
+    "correct": "its"
   },
   {
-    "wrong": "noticable",
-    "correct": "noticeable"
+    "wrong": "its",
+    "correct": "it\u2019s"
   },
   {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
+    "wrong": "Jany",
+    "correct": "January"
   },
   {
-    "wrong": "noticable",
-    "correct": "noticeable"
+    "wrong": "jealy",
+    "correct": "jealousy"
   },
   {
-    "wrong": "parliment",
-    "correct": "parliament"
+    "wrong": "jewy",
+    "correct": "jewelry"
   },
   {
-    "wrong": "consentrate",
-    "correct": "concentrate"
+    "wrong": "kindern",
+    "correct": "kindergarten"
   },
   {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "tommorow",
-    "correct": "tomorrow"
-  },
-  {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "consentrate",
-    "correct": "concentrate"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "wierd",
-    "correct": "weird"
-  },
-  {
-    "wrong": "scedule",
-    "correct": "schedule"
-  },
-  {
-    "wrong": "yeild",
-    "correct": "yield"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "concious",
-    "correct": "conscious"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "tounge",
-    "correct": "tongue"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "restaraunt",
-    "correct": "restaurant"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "arguement",
-    "correct": "argument"
-  },
-  {
-    "wrong": "suprise",
-    "correct": "surprise"
-  },
-  {
-    "wrong": "existance",
-    "correct": "existence"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "existance",
-    "correct": "existence"
-  },
-  {
-    "wrong": "gratefull",
-    "correct": "grateful"
-  },
-  {
-    "wrong": "independant",
-    "correct": "independent"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "independant",
-    "correct": "independent"
-  },
-  {
-    "wrong": "priviledge",
-    "correct": "privilege"
-  },
-  {
-    "wrong": "perseverence",
-    "correct": "perseverance"
-  },
-  {
-    "wrong": "goverment",
-    "correct": "government"
-  },
-  {
-    "wrong": "interupt",
-    "correct": "interrupt"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "priviledge",
-    "correct": "privilege"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "recieve",
-    "correct": "receive"
-  },
-  {
-    "wrong": "curiousity",
-    "correct": "curiosity"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "seperate",
-    "correct": "separate"
-  },
-  {
-    "wrong": "comming",
-    "correct": "coming"
-  },
-  {
-    "wrong": "concious",
-    "correct": "conscious"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "existance",
-    "correct": "existence"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "liason",
-    "correct": "liaison"
-  },
-  {
-    "wrong": "publically",
-    "correct": "publicly"
-  },
-  {
-    "wrong": "truely",
-    "correct": "truly"
-  },
-  {
-    "wrong": "freind",
-    "correct": "friend"
-  },
-  {
-    "wrong": "independant",
-    "correct": "independent"
-  },
-  {
-    "wrong": "honost",
-    "correct": "honest"
-  },
-  {
-    "wrong": "noticable",
-    "correct": "noticeable"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "perseverence",
-    "correct": "perseverance"
-  },
-  {
-    "wrong": "judgement",
-    "correct": "judgment"
-  },
-  {
-    "wrong": "truely",
-    "correct": "truly"
-  },
-  {
-    "wrong": "remeber",
-    "correct": "remember"
-  },
-  {
-    "wrong": "unfortunatly",
-    "correct": "unfortunately"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "untill",
-    "correct": "until"
-  },
-  {
-    "wrong": "omision",
-    "correct": "omission"
-  },
-  {
-    "wrong": "noticable",
-    "correct": "noticeable"
-  },
-  {
-    "wrong": "wich",
-    "correct": "which"
-  },
-  {
-    "wrong": "wierd",
-    "correct": "weird"
-  },
-  {
-    "wrong": "calender",
-    "correct": "calendar"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "definately",
-    "correct": "definitely"
-  },
-  {
-    "wrong": "resistence",
-    "correct": "resistance"
-  },
-  {
-    "wrong": "seige",
-    "correct": "siege"
-  },
-  {
-    "wrong": "neccessary",
-    "correct": "necessary"
-  },
-  {
-    "wrong": "knowlege",
+    "wrong": "knowe",
     "correct": "knowledge"
   },
   {
-    "wrong": "priviledge",
-    "correct": "privilege"
+    "wrong": "labd",
+    "correct": "labeled"
   },
   {
-    "wrong": "yeild",
-    "correct": "yield"
+    "wrong": "labory",
+    "correct": "laboratory"
   },
   {
-    "wrong": "pronounciation",
-    "correct": "pronunciation"
+    "wrong": "lange",
+    "correct": "language"
   },
   {
-    "wrong": "curiousity",
-    "correct": "curiosity"
+    "wrong": "leisy",
+    "correct": "leisurely"
   },
   {
-    "wrong": "interupt",
-    "correct": "interrupt"
+    "wrong": "lengtg",
+    "correct": "lengthening"
   },
   {
-    "wrong": "pharoah",
-    "correct": "pharaoh"
+    "wrong": "lice",
+    "correct": "license"
   },
   {
-    "wrong": "honost",
-    "correct": "honest"
+    "wrong": "lieutt",
+    "correct": "lieutenant"
   },
   {
-    "wrong": "arguement",
-    "correct": "argument"
+    "wrong": "lightg",
+    "correct": "lightening"
   },
   {
-    "wrong": "enviroment",
-    "correct": "environment"
+    "wrong": "lighg",
+    "correct": "lightning"
   },
   {
-    "wrong": "publically",
-    "correct": "publicly"
+    "wrong": "livet",
+    "correct": "liveliest"
   },
   {
-    "wrong": "neccessary",
-    "correct": "necessary"
+    "wrong": "lonels",
+    "correct": "loneliness"
   },
   {
-    "wrong": "rythm",
-    "correct": "rhythm"
+    "wrong": "loyy",
+    "correct": "loyalty"
   },
   {
-    "wrong": "liason",
-    "correct": "liaison"
+    "wrong": "luxus",
+    "correct": "luxuries"
   },
   {
-    "wrong": "remeber",
-    "correct": "remember"
+    "wrong": "magnit",
+    "correct": "magnificent"
   },
   {
-    "wrong": "comming",
-    "correct": "coming"
-  },
-  {
-    "wrong": "accomodate",
-    "correct": "accommodate"
-  },
-  {
-    "wrong": "writting",
-    "correct": "writing"
-  },
-  {
-    "wrong": "truely",
-    "correct": "truly"
-  },
-  {
-    "wrong": "occassion",
-    "correct": "occasion"
-  },
-  {
-    "wrong": "maintainance",
+    "wrong": "mainte",
     "correct": "maintenance"
   },
   {
-    "wrong": "rythm",
+    "wrong": "maner",
+    "correct": "maneuver"
+  },
+  {
+    "wrong": "manufag",
+    "correct": "manufacturing"
+  },
+  {
+    "wrong": "marre",
+    "correct": "marriage"
+  },
+  {
+    "wrong": "mathes",
+    "correct": "mathematics"
+  },
+  {
+    "wrong": "met",
+    "correct": "meant"
+  },
+  {
+    "wrong": "mechs",
+    "correct": "mechanics"
+  },
+  {
+    "wrong": "medie",
+    "correct": "medicine"
+  },
+  {
+    "wrong": "metropn",
+    "correct": "metropolitan"
+  },
+  {
+    "wrong": "minie",
+    "correct": "miniature"
+  },
+  {
+    "wrong": "miscels",
+    "correct": "miscellaneous"
+  },
+  {
+    "wrong": "miscf",
+    "correct": "mischief"
+  },
+  {
+    "wrong": "misspd",
+    "correct": "misspelled"
+  },
+  {
+    "wrong": "monots",
+    "correct": "monotonous"
+  },
+  {
+    "wrong": "mol",
+    "correct": "moral"
+  },
+  {
+    "wrong": "more",
+    "correct": "morale"
+  },
+  {
+    "wrong": "mosqus",
+    "correct": "mosquitoes"
+  },
+  {
+    "wrong": "multipln",
+    "correct": "multiplication"
+  },
+  {
+    "wrong": "muse",
+    "correct": "muscle"
+  },
+  {
+    "wrong": "mystes",
+    "correct": "mysterious"
+  },
+  {
+    "wrong": "natuy",
+    "correct": "naturally"
+  },
+  {
+    "wrong": "necey",
+    "correct": "necessary"
+  },
+  {
+    "wrong": "neigr",
+    "correct": "neighbor"
+  },
+  {
+    "wrong": "neir",
+    "correct": "neither"
+  },
+  {
+    "wrong": "nie",
+    "correct": "niece"
+  },
+  {
+    "wrong": "nih",
+    "correct": "ninth"
+  },
+  {
+    "wrong": "notice",
+    "correct": "noticeable"
+  },
+  {
+    "wrong": "notig",
+    "correct": "noticing"
+  },
+  {
+    "wrong": "numes",
+    "correct": "numerous"
+  },
+  {
+    "wrong": "obste",
+    "correct": "obstacle"
+  },
+  {
+    "wrong": "occan",
+    "correct": "occasion"
+  },
+  {
+    "wrong": "occure",
+    "correct": "occurrence"
+  },
+  {
+    "wrong": "o\u2019ck",
+    "correct": "o\u2019clock"
+  },
+  {
+    "wrong": "omt",
+    "correct": "omit"
+  },
+  {
+    "wrong": "omid",
+    "correct": "omitted"
+  },
+  {
+    "wrong": "opin",
+    "correct": "opinion"
+  },
+  {
+    "wrong": "opports",
+    "correct": "opportunities"
+  },
+  {
+    "wrong": "oppe",
+    "correct": "oppose"
+  },
+  {
+    "wrong": "optimc",
+    "correct": "optimistic"
+  },
+  {
+    "wrong": "orin",
+    "correct": "origin"
+  },
+  {
+    "wrong": "overwhg",
+    "correct": "overwhelming"
+  },
+  {
+    "wrong": "pampt",
+    "correct": "pamphlet"
+  },
+  {
+    "wrong": "pandem",
+    "correct": "pandemonium"
+  },
+  {
+    "wrong": "pante",
+    "correct": "pantomime"
+  },
+  {
+    "wrong": "paral",
+    "correct": "parallel"
+  },
+  {
+    "wrong": "parae",
+    "correct": "paralyze"
+  },
+  {
+    "wrong": "particy",
+    "correct": "particularly"
+  },
+  {
+    "wrong": "pasd",
+    "correct": "passed"
+  },
+  {
+    "wrong": "pat",
+    "correct": "past"
+  },
+  {
+    "wrong": "pee",
+    "correct": "peace"
+  },
+  {
+    "wrong": "peculis",
+    "correct": "peculiarities"
+  },
+  {
+    "wrong": "perce",
+    "correct": "perceive"
+  },
+  {
+    "wrong": "permt",
+    "correct": "permanent"
+  },
+  {
+    "wrong": "pert",
+    "correct": "permit"
+  },
+  {
+    "wrong": "persit",
+    "correct": "persistent"
+  },
+  {
+    "wrong": "persl",
+    "correct": "personal"
+  },
+  {
+    "wrong": "persl",
+    "correct": "personnel"
+  },
+  {
+    "wrong": "perspin",
+    "correct": "perspiration"
+  },
+  {
+    "wrong": "perse",
+    "correct": "persuade"
+  },
+  {
+    "wrong": "phe",
+    "correct": "phase"
+  },
+  {
+    "wrong": "phenon",
+    "correct": "phenomenon"
+  },
+  {
+    "wrong": "philoy",
+    "correct": "philosophy"
+  },
+  {
+    "wrong": "physl",
+    "correct": "physical"
+  },
+  {
+    "wrong": "picnig",
+    "correct": "picnicking"
+  },
+  {
+    "wrong": "pie",
+    "correct": "piece"
+  },
+  {
+    "wrong": "plad",
+    "correct": "planned"
+  },
+  {
+    "wrong": "playwt",
+    "correct": "playwright"
+  },
+  {
+    "wrong": "politn",
+    "correct": "politician"
+  },
+  {
+    "wrong": "portd",
+    "correct": "portrayed"
+  },
+  {
+    "wrong": "posses",
+    "correct": "possessions"
+  },
+  {
+    "wrong": "posse",
+    "correct": "possible"
+  },
+  {
+    "wrong": "practy",
+    "correct": "practically"
+  },
+  {
+    "wrong": "prae",
+    "correct": "prairie"
+  },
+  {
+    "wrong": "prect",
+    "correct": "precedent"
+  },
+  {
+    "wrong": "prer",
+    "correct": "prefer"
+  },
+  {
+    "wrong": "prefd",
+    "correct": "preferred"
+  },
+  {
+    "wrong": "preje",
+    "correct": "prejudice"
+  },
+  {
+    "wrong": "pree",
+    "correct": "prepare"
+  },
+  {
+    "wrong": "prescrn",
+    "correct": "prescription"
+  },
+  {
+    "wrong": "prese",
+    "correct": "presence"
+  },
+  {
+    "wrong": "prevs",
+    "correct": "previous"
+  },
+  {
+    "wrong": "prime",
+    "correct": "primitive"
+  },
+  {
+    "wrong": "prinl",
+    "correct": "principal"
+  },
+  {
+    "wrong": "prine",
+    "correct": "principle"
+  },
+  {
+    "wrong": "prive",
+    "correct": "privilege"
+  },
+  {
+    "wrong": "proby",
+    "correct": "probably"
+  },
+  {
+    "wrong": "proce",
+    "correct": "procedure"
+  },
+  {
+    "wrong": "prod",
+    "correct": "proceed"
+  },
+  {
+    "wrong": "prone",
+    "correct": "pronounce"
+  },
+  {
+    "wrong": "proprr",
+    "correct": "proprietor"
+  },
+  {
+    "wrong": "psychy",
+    "correct": "psychology"
+  },
+  {
+    "wrong": "punctn",
+    "correct": "punctuation"
+  },
+  {
+    "wrong": "quals",
+    "correct": "qualities"
+  },
+  {
+    "wrong": "quar",
+    "correct": "quarter"
+  },
+  {
+    "wrong": "questie",
+    "correct": "questionnaire"
+  },
+  {
+    "wrong": "qut",
+    "correct": "quiet"
+  },
+  {
+    "wrong": "reae",
+    "correct": "realize"
+  },
+  {
+    "wrong": "reay",
+    "correct": "really"
+  },
+  {
+    "wrong": "rece",
+    "correct": "receive"
+  },
+  {
+    "wrong": "recoe",
+    "correct": "recognize"
+  },
+  {
+    "wrong": "recod",
+    "correct": "recommend"
+  },
+  {
+    "wrong": "refee",
+    "correct": "reference"
+  },
+  {
+    "wrong": "refed",
+    "correct": "referred"
+  },
+  {
+    "wrong": "regree",
+    "correct": "regrettable"
+  },
+  {
+    "wrong": "rele",
+    "correct": "relieve"
+  },
+  {
+    "wrong": "relin",
+    "correct": "religion"
+  },
+  {
+    "wrong": "remie",
+    "correct": "reminisce"
+  },
+  {
+    "wrong": "renod",
+    "correct": "renowned"
+  },
+  {
+    "wrong": "repetn",
+    "correct": "repetition"
+  },
+  {
+    "wrong": "represee",
+    "correct": "representative"
+  },
+  {
+    "wrong": "reseh",
+    "correct": "research"
+  },
+  {
+    "wrong": "resos",
+    "correct": "resources"
+  },
+  {
+    "wrong": "restat",
+    "correct": "restaurant"
+  },
+  {
+    "wrong": "reved",
+    "correct": "reverend"
+  },
+  {
+    "wrong": "rhym",
     "correct": "rhythm"
   },
   {
-    "wrong": "seperate",
+    "wrong": "ridics",
+    "correct": "ridiculous"
+  },
+  {
+    "wrong": "righs",
+    "correct": "righteous"
+  },
+  {
+    "wrong": "rivy",
+    "correct": "rivalry"
+  },
+  {
+    "wrong": "safy",
+    "correct": "safety"
+  },
+  {
+    "wrong": "sandh",
+    "correct": "sandwich"
+  },
+  {
+    "wrong": "satisfn",
+    "correct": "satisfaction"
+  },
+  {
+    "wrong": "saur",
+    "correct": "saucer"
+  },
+  {
+    "wrong": "scary",
+    "correct": "scarcity"
+  },
+  {
+    "wrong": "sce",
+    "correct": "scene"
+  },
+  {
+    "wrong": "schee",
+    "correct": "schedule"
+  },
+  {
+    "wrong": "sche",
+    "correct": "scheme"
+  },
+  {
+    "wrong": "scholp",
+    "correct": "scholarship"
+  },
+  {
+    "wrong": "scienc",
+    "correct": "scientific"
+  },
+  {
+    "wrong": "secry",
+    "correct": "secretary"
+  },
+  {
+    "wrong": "see",
+    "correct": "seize"
+  },
+  {
+    "wrong": "sente",
+    "correct": "sentence"
+  },
+  {
+    "wrong": "sepae",
     "correct": "separate"
   },
   {
-    "wrong": "medeval",
-    "correct": "medieval"
+    "wrong": "sevl",
+    "correct": "several"
   },
   {
-    "wrong": "judgement",
-    "correct": "judgment"
+    "wrong": "shepd",
+    "correct": "shepherd"
+  },
+  {
+    "wrong": "shig",
+    "correct": "shining"
+  },
+  {
+    "wrong": "shour",
+    "correct": "shoulder"
+  },
+  {
+    "wrong": "shrk",
+    "correct": "shriek"
+  },
+  {
+    "wrong": "sie",
+    "correct": "siege"
+  },
+  {
+    "wrong": "signife",
+    "correct": "significance"
+  },
+  {
+    "wrong": "simr",
+    "correct": "similar"
+  },
+  {
+    "wrong": "sophe",
+    "correct": "sophomore"
+  },
+  {
+    "wrong": "sorrl",
+    "correct": "sorrowful"
+  },
+  {
+    "wrong": "sovery",
+    "correct": "sovereignty"
+  },
+  {
+    "wrong": "specify",
+    "correct": "specifically"
+  },
+  {
+    "wrong": "specn",
+    "correct": "specimen"
+  },
+  {
+    "wrong": "spor",
+    "correct": "sponsor"
+  },
+  {
+    "wrong": "statiy",
+    "correct": "stationary"
+  },
+  {
+    "wrong": "statiy",
+    "correct": "stationery"
+  },
+  {
+    "wrong": "stenogr",
+    "correct": "stenographer"
+  },
+  {
+    "wrong": "stopg",
+    "correct": "stopping"
+  },
+  {
+    "wrong": "strain",
+    "correct": "straighten"
+  },
+  {
+    "wrong": "streh",
+    "correct": "strength"
+  },
+  {
+    "wrong": "stres",
+    "correct": "strenuous"
+  },
+  {
+    "wrong": "stubn",
+    "correct": "stubborn"
+  },
+  {
+    "wrong": "studg",
+    "correct": "studying"
+  },
+  {
+    "wrong": "substae",
+    "correct": "substantiate"
+  },
+  {
+    "wrong": "sube",
+    "correct": "subtle"
+  },
+  {
+    "wrong": "succeg",
+    "correct": "succeeding"
+  },
+  {
+    "wrong": "succel",
+    "correct": "successful"
+  },
+  {
+    "wrong": "suddes",
+    "correct": "suddenness"
+  },
+  {
+    "wrong": "suffit",
+    "correct": "sufficient"
+  },
+  {
+    "wrong": "sumy",
+    "correct": "summary"
+  },
+  {
+    "wrong": "supee",
+    "correct": "supersede"
+  },
+  {
+    "wrong": "superr",
+    "correct": "supervisor"
+  },
+  {
+    "wrong": "supe",
+    "correct": "suppose"
+  },
+  {
+    "wrong": "surpe",
+    "correct": "surprise"
+  },
+  {
+    "wrong": "suscee",
+    "correct": "susceptible"
+  },
+  {
+    "wrong": "suspe",
+    "correct": "suspense"
+  },
+  {
+    "wrong": "suspis",
+    "correct": "suspicious"
+  },
+  {
+    "wrong": "sylle",
+    "correct": "syllable"
+  },
+  {
+    "wrong": "symmel",
+    "correct": "symmetrical"
+  },
+  {
+    "wrong": "synons",
+    "correct": "synonymous"
+  },
+  {
+    "wrong": "techl",
+    "correct": "technical"
+  },
+  {
+    "wrong": "teche",
+    "correct": "technique"
+  },
+  {
+    "wrong": "tempee",
+    "correct": "temperature"
+  },
+  {
+    "wrong": "tempoy",
+    "correct": "temporarily"
+  },
+  {
+    "wrong": "tent",
+    "correct": "tenant"
+  },
+  {
+    "wrong": "tenet",
+    "correct": "tenement"
+  },
+  {
+    "wrong": "theos",
+    "correct": "theories"
+  },
+  {
+    "wrong": "there",
+    "correct": "therefore"
+  },
+  {
+    "wrong": "thirh",
+    "correct": "thirtieth"
+  },
+  {
+    "wrong": "thoroy",
+    "correct": "thoroughly"
+  },
+  {
+    "wrong": "thot",
+    "correct": "thought"
+  },
+  {
+    "wrong": "tomow",
+    "correct": "tomorrow"
+  },
+  {
+    "wrong": "tray",
+    "correct": "tragedy"
+  },
+  {
+    "wrong": "transd",
+    "correct": "transferred"
+  },
+  {
+    "wrong": "tremes",
+    "correct": "tremendous"
+  },
+  {
+    "wrong": "tress",
+    "correct": "trespass"
+  },
+  {
+    "wrong": "tweh",
+    "correct": "twelfth"
+  },
+  {
+    "wrong": "typl",
+    "correct": "typical"
+  },
+  {
+    "wrong": "tyry",
+    "correct": "tyranny"
+  },
+  {
+    "wrong": "unbelie",
+    "correct": "unbelievable"
+  },
+  {
+    "wrong": "uncons",
+    "correct": "unconscious"
+  },
+  {
+    "wrong": "undese",
+    "correct": "undesirable"
+  },
+  {
+    "wrong": "undouy",
+    "correct": "undoubtedly"
+  },
+  {
+    "wrong": "uneass",
+    "correct": "uneasiness"
+  },
+  {
+    "wrong": "unforge",
+    "correct": "unforgettable"
+  },
+  {
+    "wrong": "unmanae",
+    "correct": "unmanageable"
+  },
+  {
+    "wrong": "unnecy",
+    "correct": "unnecessary"
+  },
+  {
+    "wrong": "unl",
+    "correct": "until"
+  },
+  {
+    "wrong": "usel",
+    "correct": "useful"
+  },
+  {
+    "wrong": "usl",
+    "correct": "usual"
+  },
+  {
+    "wrong": "vacm",
+    "correct": "vacuum"
+  },
+  {
+    "wrong": "vals",
+    "correct": "valleys"
+  },
+  {
+    "wrong": "value",
+    "correct": "valuable"
+  },
+  {
+    "wrong": "varis",
+    "correct": "varieties"
+  },
+  {
+    "wrong": "vaudee",
+    "correct": "vaudeville"
+  },
+  {
+    "wrong": "vegee",
+    "correct": "vegetable"
+  },
+  {
+    "wrong": "venge",
+    "correct": "vengeance"
+  },
+  {
+    "wrong": "vente",
+    "correct": "ventilate"
+  },
+  {
+    "wrong": "vetn",
+    "correct": "veteran"
+  },
+  {
+    "wrong": "viciy",
+    "correct": "vicinity"
+  },
+  {
+    "wrong": "vicm",
+    "correct": "victim"
+  },
+  {
+    "wrong": "viw",
+    "correct": "view"
+  },
+  {
+    "wrong": "vile",
+    "correct": "village"
+  },
+  {
+    "wrong": "viln",
+    "correct": "villain"
+  },
+  {
+    "wrong": "vinr",
+    "correct": "vinegar"
+  },
+  {
+    "wrong": "vise",
+    "correct": "visible"
+  },
+  {
+    "wrong": "vitn",
+    "correct": "vitamin"
+  },
+  {
+    "wrong": "vole",
+    "correct": "volume"
+  },
+  {
+    "wrong": "wae",
+    "correct": "wave"
+  },
+  {
+    "wrong": "wealtt",
+    "correct": "wealthiest"
+  },
+  {
+    "wrong": "wear",
+    "correct": "weather"
+  },
+  {
+    "wrong": "wedny",
+    "correct": "wednesday"
+  },
+  {
+    "wrong": "wed",
+    "correct": "weird"
+  },
+  {
+    "wrong": "whenr",
+    "correct": "whenever"
+  },
+  {
+    "wrong": "wherr",
+    "correct": "wherever"
+  },
+  {
+    "wrong": "wher",
+    "correct": "whether"
+  },
+  {
+    "wrong": "whe",
+    "correct": "whole"
+  },
+  {
+    "wrong": "whoy",
+    "correct": "wholly"
+  },
+  {
+    "wrong": "whe",
+    "correct": "whose"
+  },
+  {
+    "wrong": "witnd",
+    "correct": "witnessed"
+  },
+  {
+    "wrong": "wondl",
+    "correct": "wonderful"
+  },
+  {
+    "wrong": "wreh",
+    "correct": "wrench"
+  },
+  {
+    "wrong": "wrig",
+    "correct": "writing"
+  },
+  {
+    "wrong": "yat",
+    "correct": "yacht"
+  },
+  {
+    "wrong": "yid",
+    "correct": "yield"
+  },
+  {
+    "wrong": "yos",
+    "correct": "yours"
+  },
+  {
+    "wrong": "youe",
+    "correct": "you\u2019re"
+  },
+  {
+    "wrong": "zenh",
+    "correct": "zenith"
+  },
+  {
+    "wrong": "zigg",
+    "correct": "zigzag"
+  },
+  {
+    "wrong": "zic",
+    "correct": "zinc"
   }
 ]
