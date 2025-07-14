@@ -7,7 +7,7 @@ function SpellingMistakes() {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch('/misspelled_words_500.json')
+    fetch(`${import.meta.env.BASE_URL}misspelled_words_500.json`)
       .then((response) => {
         if (!response.ok) {
           throw new Error('Failed to fetch data');
